@@ -1,0 +1,15 @@
+D:\LeetCode\LeetCode.Solution\Maximum XOR for Each Query\bin\Debug\net8.0\Maximum XOR for Each Query.exe
+D:\LeetCode\LeetCode.Solution\Maximum XOR for Each Query\bin\Debug\net8.0\Maximum XOR for Each Query.deps.json
+D:\LeetCode\LeetCode.Solution\Maximum XOR for Each Query\bin\Debug\net8.0\Maximum XOR for Each Query.runtimeconfig.json
+D:\LeetCode\LeetCode.Solution\Maximum XOR for Each Query\bin\Debug\net8.0\Maximum XOR for Each Query.dll
+D:\LeetCode\LeetCode.Solution\Maximum XOR for Each Query\bin\Debug\net8.0\Maximum XOR for Each Query.pdb
+D:\LeetCode\LeetCode.Solution\Maximum XOR for Each Query\obj\Debug\net8.0\Maximum XOR for Each Query.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\LeetCode.Solution\Maximum XOR for Each Query\obj\Debug\net8.0\Maximum XOR for Each Query.AssemblyInfoInputs.cache
+D:\LeetCode\LeetCode.Solution\Maximum XOR for Each Query\obj\Debug\net8.0\Maximum XOR for Each Query.AssemblyInfo.cs
+D:\LeetCode\LeetCode.Solution\Maximum XOR for Each Query\obj\Debug\net8.0\Maximum XOR for Each Query.csproj.CoreCompileInputs.cache
+D:\LeetCode\LeetCode.Solution\Maximum XOR for Each Query\obj\Debug\net8.0\Maximum XOR for Each Query.sourcelink.json
+D:\LeetCode\LeetCode.Solution\Maximum XOR for Each Query\obj\Debug\net8.0\Maximum XOR for Each Query.dll
+D:\LeetCode\LeetCode.Solution\Maximum XOR for Each Query\obj\Debug\net8.0\refint\Maximum XOR for Each Query.dll
+D:\LeetCode\LeetCode.Solution\Maximum XOR for Each Query\obj\Debug\net8.0\Maximum XOR for Each Query.pdb
+D:\LeetCode\LeetCode.Solution\Maximum XOR for Each Query\obj\Debug\net8.0\Maximum XOR for Each Query.genruntimeconfig.cache
+D:\LeetCode\LeetCode.Solution\Maximum XOR for Each Query\obj\Debug\net8.0\ref\Maximum XOR for Each Query.dll
