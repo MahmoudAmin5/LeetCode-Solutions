@@ -1,0 +1,15 @@
+D:\LeetCode\LeetCode.Solution\Find Champion II\obj\Debug\net8.0\Find Champion II.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\LeetCode.Solution\Find Champion II\obj\Debug\net8.0\Find Champion II.AssemblyInfoInputs.cache
+D:\LeetCode\LeetCode.Solution\Find Champion II\obj\Debug\net8.0\Find Champion II.AssemblyInfo.cs
+D:\LeetCode\LeetCode.Solution\Find Champion II\obj\Debug\net8.0\Find Champion II.csproj.CoreCompileInputs.cache
+D:\LeetCode\LeetCode.Solution\Find Champion II\obj\Debug\net8.0\Find Champion II.sourcelink.json
+D:\LeetCode\LeetCode.Solution\Find Champion II\bin\Debug\net8.0\Find Champion II.exe
+D:\LeetCode\LeetCode.Solution\Find Champion II\bin\Debug\net8.0\Find Champion II.deps.json
+D:\LeetCode\LeetCode.Solution\Find Champion II\bin\Debug\net8.0\Find Champion II.runtimeconfig.json
+D:\LeetCode\LeetCode.Solution\Find Champion II\bin\Debug\net8.0\Find Champion II.dll
+D:\LeetCode\LeetCode.Solution\Find Champion II\bin\Debug\net8.0\Find Champion II.pdb
+D:\LeetCode\LeetCode.Solution\Find Champion II\obj\Debug\net8.0\Find Champion II.dll
+D:\LeetCode\LeetCode.Solution\Find Champion II\obj\Debug\net8.0\refint\Find Champion II.dll
+D:\LeetCode\LeetCode.Solution\Find Champion II\obj\Debug\net8.0\Find Champion II.pdb
+D:\LeetCode\LeetCode.Solution\Find Champion II\obj\Debug\net8.0\Find Champion II.genruntimeconfig.cache
+D:\LeetCode\LeetCode.Solution\Find Champion II\obj\Debug\net8.0\ref\Find Champion II.dll

@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\LeetCode\\LeetCode.Solution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B8F747FC-446E-47F7-8F93-8153F3DA3089}|Find Champion II\\Find Champion II.csproj|d:\\leetcode\\leetcode.solution\\find champion ii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F747FC-446E-47F7-8F93-8153F3DA3089}|Find Champion II\\Find Champion II.csproj|solutionrelative:find champion ii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB79AB9-1AA5-4485-8E72-653D39B3E2B8}|Circular Sentence\\Circular Sentence.csproj|d:\\leetcode\\leetcode.solution\\circular sentence\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB79AB9-1AA5-4485-8E72-653D39B3E2B8}|Circular Sentence\\Circular Sentence.csproj|solutionrelative:circular sentence\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2EB79AB9-1AA5-4485-8E72-653D39B3E2B8}|Circular Sentence\\Circular Sentence.csproj|d:\\leetcode\\leetcode.solution\\circular sentence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EB79AB9-1AA5-4485-8E72-653D39B3E2B8}|Circular Sentence\\Circular Sentence.csproj|solutionrelative:circular sentence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -24,14 +32,39 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LeetCode\\LeetCode.Solution\\Find Champion II\\Program.cs",
+              "RelativeDocumentMoniker": "Find Champion II\\Program.cs",
+              "ToolTip": "D:\\LeetCode\\LeetCode.Solution\\Find Champion II\\Program.cs",
+              "RelativeToolTip": "Find Champion II\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T03:55:14.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Solution.cs",
+              "DocumentMoniker": "D:\\LeetCode\\LeetCode.Solution\\Circular Sentence\\Solution.cs",
+              "RelativeDocumentMoniker": "Circular Sentence\\Solution.cs",
+              "ToolTip": "D:\\LeetCode\\LeetCode.Solution\\Circular Sentence\\Solution.cs",
+              "RelativeToolTip": "Circular Sentence\\Solution.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T13:22:33.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\LeetCode\\LeetCode.Solution\\Circular Sentence\\Program.cs",
               "RelativeDocumentMoniker": "Circular Sentence\\Program.cs",
               "ToolTip": "D:\\LeetCode\\LeetCode.Solution\\Circular Sentence\\Program.cs",
               "RelativeToolTip": "Circular Sentence\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T13:21:41.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-02T13:21:41.733Z"
             }
           ]
         }

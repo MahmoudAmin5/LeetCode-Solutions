@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Circular Sentence", "Circular Sentence\Circular Sentence.csproj", "{2EB79AB9-1AA5-4485-8E72-653D39B3E2B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find Champion II", "Find Champion II\Find Champion II.csproj", "{B8F747FC-446E-47F7-8F93-8153F3DA3089}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{2EB79AB9-1AA5-4485-8E72-653D39B3E2B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2EB79AB9-1AA5-4485-8E72-653D39B3E2B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2EB79AB9-1AA5-4485-8E72-653D39B3E2B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8F747FC-446E-47F7-8F93-8153F3DA3089}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8F747FC-446E-47F7-8F93-8153F3DA3089}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8F747FC-446E-47F7-8F93-8153F3DA3089}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8F747FC-446E-47F7-8F93-8153F3DA3089}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
