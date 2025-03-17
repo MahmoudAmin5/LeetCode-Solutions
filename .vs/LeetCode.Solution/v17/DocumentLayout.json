@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\LeetCode\\LeetCode.Solution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8F747FC-446E-47F7-8F93-8153F3DA3089}|Find Champion II\\Find Champion II.csproj|d:\\leetcode\\leetcode.solution\\find champion ii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8F747FC-446E-47F7-8F93-8153F3DA3089}|Find Champion II\\Find Champion II.csproj|solutionrelative:find champion ii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8D479E4-1005-4C61-B039-2CB6E6F393C2}|Minimum Number of Pushes to Type Word II\\Minimum Number of Pushes to Type Word II.csproj|d:\\leetcode\\leetcode.solution\\minimum number of pushes to type word ii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8D479E4-1005-4C61-B039-2CB6E6F393C2}|Minimum Number of Pushes to Type Word II\\Minimum Number of Pushes to Type Word II.csproj|solutionrelative:minimum number of pushes to type word ii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\LeetCode\\LeetCode.Solution\\Find Champion II\\Program.cs",
-              "RelativeDocumentMoniker": "Find Champion II\\Program.cs",
-              "ToolTip": "D:\\LeetCode\\LeetCode.Solution\\Find Champion II\\Program.cs",
-              "RelativeToolTip": "Find Champion II\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\LeetCode\\LeetCode.Solution\\Minimum Number of Pushes to Type Word II\\Program.cs",
+              "RelativeDocumentMoniker": "Minimum Number of Pushes to Type Word II\\Program.cs",
+              "ToolTip": "D:\\LeetCode\\LeetCode.Solution\\Minimum Number of Pushes to Type Word II\\Program.cs",
+              "RelativeToolTip": "Minimum Number of Pushes to Type Word II\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T05:17:26.083Z",
+              "WhenOpened": "2025-03-17T10:46:25.485Z",
               "EditorCaption": ""
             }
           ]

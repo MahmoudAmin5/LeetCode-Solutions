@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Maximum XOR for Each Query")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+086b55a2ed7a6157610801cb97b11d1a3b680f6f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee1b4b2622a2e8b210de4a9b063e1505d3361398")]
 [assembly: System.Reflection.AssemblyProductAttribute("Maximum XOR for Each Query")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Maximum XOR for Each Query")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
