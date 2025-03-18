@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Find Champion II")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee1b4b2622a2e8b210de4a9b063e1505d3361398")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9401bfa0687e6e6e886a40574527c0a064236102")]
 [assembly: System.Reflection.AssemblyProductAttribute("Find Champion II")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Find Champion II")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

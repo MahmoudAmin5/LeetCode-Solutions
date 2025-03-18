@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\LeetCode\\LeetCode.Solution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FF76E9F4-97BE-4E2C-9B7E-9E153A64C8A2}|Make Two Arrays Equal by Reversing Subarrays\\Make Two Arrays Equal by Reversing Subarrays.csproj|d:\\leetcode\\leetcode.solution\\make two arrays equal by reversing subarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF76E9F4-97BE-4E2C-9B7E-9E153A64C8A2}|Make Two Arrays Equal by Reversing Subarrays\\Make Two Arrays Equal by Reversing Subarrays.csproj|solutionrelative:make two arrays equal by reversing subarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{382B1768-7AAD-4D6F-B687-3CD437DDAC11}|Maximum XOR for Each Query\\Maximum XOR for Each Query.csproj|d:\\leetcode\\leetcode.solution\\maximum xor for each query\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{382B1768-7AAD-4D6F-B687-3CD437DDAC11}|Maximum XOR for Each Query\\Maximum XOR for Each Query.csproj|solutionrelative:maximum xor for each query\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C8D479E4-1005-4C61-B039-2CB6E6F393C2}|Minimum Number of Pushes to Type Word II\\Minimum Number of Pushes to Type Word II.csproj|d:\\leetcode\\leetcode.solution\\minimum number of pushes to type word ii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8D479E4-1005-4C61-B039-2CB6E6F393C2}|Minimum Number of Pushes to Type Word II\\Minimum Number of Pushes to Type Word II.csproj|solutionrelative:minimum number of pushes to type word ii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,7 +30,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LeetCode\\LeetCode.Solution\\Maximum XOR for Each Query\\Program.cs",
+              "RelativeDocumentMoniker": "Maximum XOR for Each Query\\Program.cs",
+              "ToolTip": "D:\\LeetCode\\LeetCode.Solution\\Maximum XOR for Each Query\\Program.cs",
+              "RelativeToolTip": "Maximum XOR for Each Query\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAApwB0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T11:55:26.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LeetCode\\LeetCode.Solution\\Make Two Arrays Equal by Reversing Subarrays\\Program.cs",
+              "RelativeDocumentMoniker": "Make Two Arrays Equal by Reversing Subarrays\\Program.cs",
+              "ToolTip": "D:\\LeetCode\\LeetCode.Solution\\Make Two Arrays Equal by Reversing Subarrays\\Program.cs",
+              "RelativeToolTip": "Make Two Arrays Equal by Reversing Subarrays\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T11:46:33.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\LeetCode\\LeetCode.Solution\\Minimum Number of Pushes to Type Word II\\Program.cs",
               "RelativeDocumentMoniker": "Minimum Number of Pushes to Type Word II\\Program.cs",
